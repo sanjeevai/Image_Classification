@@ -5,14 +5,14 @@ This is the second project of Machine Learning Engineer Advanced Nanodegree at U
 ## Files
 
 This project contains 3 files:
-* `image_classification.ipynb`: This is the main file where I did my main work
+* `image_classification.ipynb`: This is the file where I did my main work
 * Two helper files:
     1. `helper.py`
     2. `problem_unittests.py`
 
 ## Introduction
 
-In this project, I'll classify images from the CIFAR-10 dataset. The dataset consists of airplanes, dogs, cats, and other objects. The dataset will need to be preprocessed, then train a convolutional neural network on all the samples. I'll normalize the images, one-hot encode the labels, build a convolutional layer, max pool layer, and fully connected layer. At then end, I'll see their predictions on the sample images.
+In this project, I'll classify images from the CIFAR-10 dataset. The dataset consists of airplanes, dogs, cats, and other objects. The dataset will need to be preprocessed, then train a convolutional neural network on all the samples. I'll normalize the images, one-hot encode the labels, build a convolutional layer, max pool layer, and fully connected layer. At the end, I'll see their predictions on the sample images.
 
 ## Getting the project files
 
