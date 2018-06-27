@@ -1,3 +1,7 @@
+# Machine Learning Engineer Nanodegree
+## Deep Learning
+## Project: Create an Image Classifier
+
 ## Project Overview
 
 This is the second project of Machine Learning Engineer Advanced Nanodegree at Udacity.
