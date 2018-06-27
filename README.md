@@ -17,4 +17,4 @@ This project contains 3 files:
 
 ## Libraries
 
-This project is written Python 3.x.
+This project is written Python 3.x. CNN was made using TensorFlow framework
