@@ -4,7 +4,7 @@
 
 ### Project Overview
 
-This is the second project of Machine Learning Engineer Advanced Nanodegree at Udacity.
+This is the second project of ML Advanced Nanodegree from Udacity.
 
 ### Introduction
 
