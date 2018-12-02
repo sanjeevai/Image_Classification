@@ -1,5 +1,7 @@
 # Machine Learning Engineer Nanodegree
+
 ## Deep Learning
+
 ## Project: Create an Image Classifier
 
 ### Project Overview
@@ -13,11 +15,13 @@ In this project, we will classify images from the CIFAR-10 data set. The data se
 ### Files
 
 This project contains 3 files:
+
 * `image_classification.ipynb`: This is the file where I did my main work, i.e., building the network, and training it for classification.
 
 * Two helper files:
-    1. `helper.py`: It helps in performing some data loading and visualisation tasks.
-    2. `problem_unittests.py`: It contains some test functions that check whether I have performed the TO-DOs correctly.
+  * `helper.py`: It helps in performing some data loading and visualisation tasks.
+
+  * `problem_unittests.py`: It contains some test functions that check whether I have performed the TO-DOs correctly.
 
 ### Libraries
 
