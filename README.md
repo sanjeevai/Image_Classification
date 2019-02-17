@@ -8,7 +8,7 @@
 
 - [Introduction](#intro)
 - [Get the Data](#get_data)
-- [Exploring the Data](#explore)
+- [Explore the Data](#explore)
 - [Preprocessing Functions](#preprocess)
   - [Normalise](#norm)
   - [One-Hot Encode](#one-hot)
