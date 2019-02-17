@@ -124,7 +124,7 @@ like these will help you preprocess the data and end up with better predictions.
 
 A preview:
 
-<img src="./img/explore.jpg" alt="explore">
+<img src="./img/explore.png" alt="explore">
 
 I tried different values of `sample_id` and came up with this alphabetical order for labels as shown
 on [CIFAR-10 data set page](https://www.cs.toronto.edu/~kriz/cifar.html).
