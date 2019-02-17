@@ -717,7 +717,7 @@ This project contains 3 files:
 
 <a id="sw"></a>
 
-### Software Requirements
+## Software Requirements
 
 This project is written in Python 3.5.x. CNN was made using TensorFlow
 framework.
